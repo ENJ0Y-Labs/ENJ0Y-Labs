@@ -92,14 +92,6 @@ I'm a **backend developer and student from Nigeria** who learns by building real
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ENJ0Y-Labs/ENJ0Y-Labs/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ENJ0Y-Labs/ENJ0Y-Labs/output/pacman-contribution-graph.svg" />
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ENJ0Y-Labs/ENJ0Y-Labs/output/pacman-contribution-graph.svg" />
-</picture>
-
-<br/><br/>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ENJ0Y-Labs/ENJ0Y-Labs/output/breakout-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ENJ0Y-Labs/ENJ0Y-Labs/output/breakout-contribution-graph.svg" />
   <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/ENJ0Y-Labs/ENJ0Y-Labs/output/breakout-contribution-graph.svg" />
