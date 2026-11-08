@@ -54,11 +54,8 @@ I also build websites and digital experiences for businesses.
 |---|---|---|---|
 | **Pomas** | Local-first Windows desktop software for Layer and Broiler poultry operations. Covers flock records, feed, health, egg production, sales, expenses, reports, audit history, and SQLite backup/restore. | Electron, React, Spring Boot, SQLite, Flyway, Java 17 | [poultry-desktop](https://github.com/ENJ0Y-Labs/poultry-desktop) |
 | **RetailOS** | Retail operations platform for African businesses, with a web client, Flask API, PostgreSQL persistence, inventory, POS sales, customers, dashboard metrics, and low-stock alerts. | Next.js, Flask, PostgreSQL, session cookies | [Client](https://github.com/ENJ0Y-Labs/retailos-client) · [Server](https://github.com/ENJ0Y-Labs/retailos-server) · [Admin](https://github.com/ENJ0Y-Labs/retailos-admin) |
-| **FixIt** | Nigerian home-services marketplace concept with separate customer, provider, and admin React applications. The interfaces share a design system; backend integration remains a separate workstream. | React, Vite, JavaScript, CSS, Vitest | [fixit-frontend](https://github.com/ENJ0Y-Labs/fixit-frontend) |
 | **ENJ0Y Shop** | E-commerce web application with a companion Android client. Work includes authentication, product browsing, cart flows, and same-origin API/session handling. | React, Flask, Kotlin, PostgreSQL, SQLAlchemy | [Web](https://github.com/ENJ0Y-Labs/shop-website) · [Android](https://github.com/ENJ0Y-Labs/shop-mobile) |
 | **ENJ0Y Portfolio** | Multi-page portfolio and digital hub with project case studies, services, learning archive, contact flows, and website feedback routed to GitHub Issues. | HTML, CSS, JavaScript, Netlify Functions | [enj-portfolio](https://github.com/ENJ0Y-Labs/enj-portfolio) · [Live site](https://enj0y.netlify.app/) |
-| **Grantino Farms** | Website for a poultry and farm business, using farm photography and responsive product presentation. | React, Vite, CSS | [grantino-website](https://github.com/ENJ0Y-Labs/grantino-website) |
-| **Hazel PR** | Corporate website for Hazel PR Company Limited, covering company information, services, divisions, clients, and enquiries. | React, Vite, React Router | [hazel-website](https://github.com/ENJ0Y-Labs/hazel-website) |
 | **Todo List** | Task-management application with create/edit/complete/delete, search, filtering, sorting, categories, due dates, and a public browser-persisted demo. | React, Vite, Flask, SQLAlchemy, PostgreSQL | [todo-list](https://github.com/ENJ0Y-Labs/todo-list) |
 | **Relic Rush 3D** | Three.js endless-runner game with keyboard and touch controls, obstacles, relic collection, and Start.ng leaderboard integration. | JavaScript, Three.js, Vite | [endless-runner-game](https://github.com/ENJ0Y-Labs/endless-runner-game) |
 
@@ -69,7 +66,6 @@ I also build websites and digital experiences for businesses.
 - Improving backend architecture, REST API contracts, authentication, and database integrity.
 - Building and refining Pomas, a local-first desktop application with a bundled runtime and SQLite storage.
 - Developing RetailOS across its web client, API, and administration work.
-- Keeping the FixIt customer, provider, and admin experiences visually consistent while preserving their separate workflows.
 - Improving automated tests, responsive behavior, accessibility, documentation, and deployment reliability.
 - Strengthening Python, Java, JavaScript, SQL, and core software engineering fundamentals.
 
