@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:000000,100:f97316&text=ENJ0Y&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Backend%20Developer%20%7C%20Software%20Builder&descAlignY=60&descSize=18" alt="ENJ0Y banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:000000,100:f97316&text=ENJ&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Backend%20Developer%20%7C%20Software%20Builder&descAlignY=60&descSize=18" alt="ENJ banner" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=F97316&center=true&vCenter=true&width=680&lines=Backend+engineering+%7C+APIs+%7C+Databases;Building+software+that+solves+practical+problems;Learning+through+shipping%2C+testing%2C+and+iteration" alt="Backend engineering, software building, and continuous learning" />
@@ -20,7 +20,7 @@
 
 ## About
 
-I'm **ENJ0Y**, a software developer and student based in Nigeria. I learn by designing, building, testing, and improving practical applications.
+I'm **ENJ**, a software developer and student based in Nigeria. I learn by designing, building, testing, and improving practical applications.
 
 My main interests are backend engineering, API design, databases, desktop software, and full-stack product development. I care about fundamentals, maintainable architecture, useful interfaces, and making software work reliably beyond the happy path.
 
