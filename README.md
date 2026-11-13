@@ -61,14 +61,6 @@ A local-first desktop application designed to help manage poultry operations, in
 - **Stack:** Electron, React, Spring Boot, SQLite, Flyway, Java 17
 - **Repository:** [poultry-desktop](https://github.com/ENJ0Y-Labs/poultry-desktop)
 
-### Fixit
-**Service marketplace**
-
-A service marketplace project with separate customer, provider, and administration experiences. The work includes service discovery, provider profiles, job workflows, verification, dispute handling, and administrative operations.
-
-- **Focus:** Customer, provider, and admin interfaces
-- **Repository:** [fixit-frontend](https://github.com/ENJ0Y-Labs/fixit-frontend)
-
 ### RetailOS
 **Retail operations platform**
 
