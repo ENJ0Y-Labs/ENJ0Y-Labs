@@ -1,32 +1,34 @@
-<!-- ENJ0Y-Labs GitHub profile README -->
+<!-- ENJ0Y-Labs GitHub organization profile -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:000000,100:f97316&text=ENJ&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Backend%20Developer%20%7C%20Software%20Builder&descAlignY=60&descSize=18" alt="ENJ banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:000000,100:f97316&text=ENJ0Y&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Software%20Engineering%20%7C%20Building%20Practical%20Products&descAlignY=60&descSize=17" alt="ENJ0Y banner" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=F97316&center=true&vCenter=true&width=680&lines=Backend+engineering+%7C+APIs+%7C+Databases;Building+software+that+solves+practical+problems;Learning+through+shipping%2C+testing%2C+and+iteration" alt="Backend engineering, software building, and continuous learning" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=F97316&center=true&vCenter=true&width=720&lines=Backend+engineering+%7C+APIs+%7C+Databases;Desktop%2C+web%2C+and+mobile+applications;Building+useful+software+through+continuous+iteration" alt="Backend engineering, application development, and continuous improvement" />
 </a>
 
 <br />
 
-![Location](https://img.shields.io/badge/Nigeria-f97316?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Software%20Engineering-000000?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Software%20Engineering-f97316?style=for-the-badge)
+![Interests](https://img.shields.io/badge/Interests-Backend%20%7C%20Full--Stack%20%7C%20Product%20Development-000000?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=ENJ0Y-Labs&style=for-the-badge&color=000000&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## About
+## About ENJ0Y
 
-I'm **ENJ**, a software developer and student based in Nigeria. I learn by designing, building, testing, and improving practical applications.
+ENJ0Y is the software development identity and project space of **ENJ**.
 
-My main interests are backend engineering, API design, databases, desktop software, and full-stack product development. I care about fundamentals, maintainable architecture, useful interfaces, and making software work reliably beyond the happy path.
+I build practical software for real-world problems, with a strong interest in backend engineering, API design, databases, desktop applications, and full-stack product development.
 
-I also build websites and digital experiences for businesses.
+My approach is to understand the problem, get the fundamentals right, build deliberately, test real workflows, and improve from feedback. I care about maintainable architecture, data integrity, useful interfaces, and software that behaves reliably beyond the happy path.
 
-## Technology
+The work spans web, desktop, and mobile experiences, with an emphasis on tools that can serve individuals, teams, and businesses.
+
+## Technical Stack
 
 <div align="center">
 
@@ -38,45 +40,97 @@ I also build websites and digital experiences for businesses.
 
 <img src="https://skillicons.dev/icons?i=flask,spring,react,nextjs,electron,vite&perline=8" alt="Flask, Spring, React, Next.js, Electron and Vite" />
 
-**Data and Tools**
+**Databases and Tools**
 
 <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,git,github,docker,linux&perline=8" alt="PostgreSQL, SQLite, Supabase, Git, GitHub, Docker and Linux" />
 
 </div>
 
-*This reflects tools used across my repositories, not equal proficiency in every technology.*
+*These are technologies used or explored across projects. The list does not imply equal proficiency or production use in every stack.*
 
 ---
 
 ## Selected Projects
 
-| Project | Description | Technologies | Repository |
-|---|---|---|---|
-| **Pomas** | Local-first Windows desktop software for Layer and Broiler poultry operations. Covers flock records, feed, health, egg production, sales, expenses, reports, audit history, and SQLite backup/restore. | Electron, React, Spring Boot, SQLite, Flyway, Java 17 | [poultry-desktop](https://github.com/ENJ0Y-Labs/poultry-desktop) |
-| **RetailOS** | Retail operations platform for African businesses, with a web client, Flask API, PostgreSQL persistence, inventory, POS sales, customers, dashboard metrics, and low-stock alerts. | Next.js, Flask, PostgreSQL, session cookies | [Client](https://github.com/ENJ0Y-Labs/retailos-client) · [Server](https://github.com/ENJ0Y-Labs/retailos-server) · [Admin](https://github.com/ENJ0Y-Labs/retailos-admin) |
-| **ENJ0Y Shop** | E-commerce web application with a companion Android client. Work includes authentication, product browsing, cart flows, and same-origin API/session handling. | React, Flask, Kotlin, PostgreSQL, SQLAlchemy | [Web](https://github.com/ENJ0Y-Labs/shop-website) · [Android](https://github.com/ENJ0Y-Labs/shop-mobile) |
-| **ENJ0Y Portfolio** | Multi-page portfolio and digital hub with project case studies, services, learning archive, contact flows, and website feedback routed to GitHub Issues. | HTML, CSS, JavaScript, Netlify Functions | [enj-portfolio](https://github.com/ENJ0Y-Labs/enj-portfolio) · [Live site](https://enj0y.netlify.app/) |
-| **Todo List** | Task-management application with create/edit/complete/delete, search, filtering, sorting, categories, due dates, and a public browser-persisted demo. | React, Vite, Flask, SQLAlchemy, PostgreSQL | [todo-list](https://github.com/ENJ0Y-Labs/todo-list) |
-| **Relic Rush 3D** | Three.js endless-runner game with keyboard and touch controls, obstacles, relic collection, and Start.ng leaderboard integration. | JavaScript, Three.js, Vite | [endless-runner-game](https://github.com/ENJ0Y-Labs/endless-runner-game) |
+### Pomas
+**Poultry farm management software**
 
-*Project status and feature availability can change. Prototype interfaces are not presented as production-connected systems, and deployment or integration claims should be verified in the relevant repository.*
+A local-first desktop application designed to help manage poultry operations, including flock records, houses, daily activities, feed and stock, health, production, sales, expenses, and reports.
+
+- **Platform:** Windows desktop
+- **Stack:** Electron, React, Spring Boot, SQLite, Flyway, Java 17
+- **Repository:** [poultry-desktop](https://github.com/ENJ0Y-Labs/poultry-desktop)
+
+### Fixit
+**Service marketplace**
+
+A service marketplace project with separate customer, provider, and administration experiences. The work includes service discovery, provider profiles, job workflows, verification, dispute handling, and administrative operations.
+
+- **Focus:** Customer, provider, and admin interfaces
+- **Repository:** [fixit-frontend](https://github.com/ENJ0Y-Labs/fixit-frontend)
+
+### RetailOS
+**Retail operations platform**
+
+A retail management project focused on helping businesses manage everyday operations such as products, inventory, point-of-sale workflows, customers, and business reporting.
+
+- **Architecture:** Separate client, server, and administration applications
+- **Stack:** Next.js, Flask, PostgreSQL, session-based authentication
+- **Repositories:** [Client](https://github.com/ENJ0Y-Labs/retailos-client) · [Server](https://github.com/ENJ0Y-Labs/retailos-server) · [Admin](https://github.com/ENJ0Y-Labs/retailos-admin)
+
+### ENJ0Y Shop
+**E-commerce web and Android applications**
+
+An e-commerce learning and development project covering authentication, product browsing, cart workflows, backend APIs, and session handling across web and Android clients.
+
+- **Stack:** React, Flask, Kotlin, PostgreSQL, SQLAlchemy
+- **Repositories:** [Web](https://github.com/ENJ0Y-Labs/shop-website) · [Android](https://github.com/ENJ0Y-Labs/shop-mobile)
+
+### ENJ0Y Portfolio
+**Personal portfolio and digital hub**
+
+A multi-page website showcasing software projects, services, case studies, and a learning archive. It also includes contact and feedback workflows.
+
+- **Stack:** HTML, CSS, JavaScript, Netlify Functions
+- **Repository:** [enj-portfolio](https://github.com/ENJ0Y-Labs/enj-portfolio)
+- **Live website:** [enj0y.netlify.app](https://enj0y.netlify.app/)
+
+### Todo List
+**Task management application**
+
+A task management project with task creation and editing, completion, search, filtering, sorting, categories, and due dates.
+
+- **Stack:** React, Vite, Flask, SQLAlchemy, PostgreSQL
+- **Repository:** [todo-list](https://github.com/ENJ0Y-Labs/todo-list)
+
+### Relic Rush 3D
+**Browser-based endless runner**
+
+A Three.js game project featuring keyboard and touch controls, obstacles, collectible relics, and leaderboard integration.
+
+- **Stack:** JavaScript, Three.js, Vite
+- **Repository:** [endless-runner-game](https://github.com/ENJ0Y-Labs/endless-runner-game)
+
+> Project descriptions summarize their intended scope and development work. Feature availability, integrations, and deployment status should be checked in each repository.
+
+---
 
 ## Current Engineering Focus
 
-- Improving backend architecture, REST API contracts, authentication, and database integrity.
-- Building and refining Pomas, a local-first desktop application with a bundled runtime and SQLite storage.
-- Developing RetailOS across its web client, API, and administration work.
-- Improving automated tests, responsive behavior, accessibility, documentation, and deployment reliability.
-- Strengthening Python, Java, JavaScript, SQL, and core software engineering fundamentals.
+- Designing reliable backend services, REST APIs, and clear API contracts.
+- Improving database design, data integrity, and authentication workflows.
+- Building and refining desktop, web, and mobile applications.
+- Improving automated testing, responsive interfaces, accessibility, and documentation.
+- Strengthening software engineering fundamentals through practical projects.
 
-## How I Build
+## Engineering Principles
 
-- Understand the requirement before choosing the implementation.
-- Keep business rules and data integrity on the backend.
-- Make mock data and prototype behavior explicit.
-- Prefer focused changes over unnecessary rewrites.
-- Test the actual user flow, not just whether the page renders.
-- Document setup, limitations, and the checks that have really been run.
+- **Understand before building.** Clarify the problem and requirements before choosing a solution.
+- **Fundamentals first.** Prefer sound concepts over unnecessary complexity.
+- **Protect data integrity.** Validate inputs and enforce important business rules at the appropriate layer.
+- **Build for real workflows.** Test complete user journeys, not just individual screens.
+- **Be honest about progress.** Distinguish working features from prototypes, mock data, and planned work.
+- **Keep improving.** Use testing, feedback, and review to make each iteration better.
 
 ## GitHub Activity
 
@@ -93,13 +147,13 @@ I also build websites and digital experiences for businesses.
 
 ---
 
-## Motto
+## The Principle
 
 <div align="center">
 
 > **I am not here to look advanced. I am here to become dangerous with fundamentals.**
 
-I learn by building, breaking things, fixing them, and doing it again.
+Build it. Test it. Understand it. Improve it.
 
 </div>
 
